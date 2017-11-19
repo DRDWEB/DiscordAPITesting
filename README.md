@@ -1,0 +1,2 @@
+# DiscordAPITesting
+Playing around with the Discord API
